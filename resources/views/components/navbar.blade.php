@@ -18,10 +18,10 @@
             Categories
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="/category/man">Man</a></li>
-            <li><a class="dropdown-item" href="/category/woman">Woman</a></li>
+            <li><a class="dropdown-item" href="/category/local">Local</a></li>
+            <li><a class="dropdown-item" href="/category/import">Import</a></li>
             <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="/category/child">Child</a></li>
+            <!-- <li><a class="dropdown-item" href="/category/child">Child</a></li> -->
           </ul>
         </li>
         <li class="nav-item">

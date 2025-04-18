@@ -1,3 +1,7 @@
 <x-layout> 
-<h3>Ini adalah halaman Category {{$slug}}</h3> 
+<h1>{{$single_category ['name'] }}</h1> 
+<hr>
+<p>
+    {{$single_category ['description'] }}
+</p>
 </x-layout>  
